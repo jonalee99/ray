@@ -13,7 +13,7 @@ filelock
 jsonschema
 msgpack<2.0.0,>=1.0.0
 packaging>=24.2
-protobuf>=3.20.3
+protobuf>=5.29.6
 pyyaml
 requests
 watchfiles
@@ -40,7 +40,7 @@ opentelemetry-proto
 fastapi
 ormsgpack>=1.7.0
 gymnasium==1.2.2
-virtualenv!=20.21.1,>=20.0.24
+virtualenv!=20.21.1,>=20.36.1
 opencensus
 aiohttp_cors
 dm_tree
@@ -48,7 +48,7 @@ uvicorn
 prometheus_client>=0.7.1
 pandas
 tensorboardX
-aiohttp>=3.13.3
+aiohttp>=3.14.0
 starlette
 typer
 fsspec
